@@ -1,0 +1,4 @@
+GL_LOG_FILE log. local time Mon Mar 21 23:32:44 2016
+
+starting GLFW 3.0.4 X11 GLX glXGetProcAddress clock_gettime /dev/js sharedrenderer: AMD Radeon HD 7660G
+version: 4.4.13374 Compatibility Profile Context 15.20.1013
